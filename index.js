@@ -46,3 +46,4 @@ function removeFirstKitten(name) {
   var newArr = kittens.slice()
   newArr.shift()
   return newArr
+}
